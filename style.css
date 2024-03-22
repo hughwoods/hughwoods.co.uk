@@ -1,6 +1,6 @@
 body {
   background-color: #eff1f5	;
-    font-family: 'DM Sans', sans-serif;
+  font-family: 'DM Sans', sans-serif;
 }
 
 h1 {
@@ -25,6 +25,15 @@ p a {
 ul#contact-methods {
   padding-left: 20px;
 }
+
 ul#contact-methods li {
   display:inline;
+}
+
+footer {
+  padding-top: 40px;
+}
+
+footer p {
+  font-size: 0.8em;
 }
