@@ -1,0 +1,30 @@
+body {
+  background-color: #eff1f5	;
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1 {
+  color: #179299;
+  margin-left: 20px;
+}
+
+h2 {
+  color: #209fb5;
+  margin-left: 20px;
+}
+
+p {
+  color: #4c4f69;
+  margin-left: 20px;
+}
+
+p a {
+  color: #7287fd;
+}
+
+ul#contact-methods {
+  padding-left: 20px;
+}
+ul#contact-methods li {
+  display:inline;
+}
